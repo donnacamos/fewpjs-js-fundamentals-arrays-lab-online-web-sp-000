@@ -1,9 +1,9 @@
 // Write your solution here!
 let append = ["Milo", "Otis", "Garfield"];
-append.unshift();
+append.push();
 
 let prepend = ["Milo", "Otis", "Garfield"];
-prepend.push();
+prepend.unshift();
 
 let removeLast = ["Milo", "Otis", "Garfield"]
 removeLast.pop();
