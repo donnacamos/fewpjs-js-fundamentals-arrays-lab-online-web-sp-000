@@ -6,5 +6,6 @@ const prepend = ["Milo", "Otis", "Garfield"];
 prepend.push();
 
 const removeLast = ["Milo", "Otis", "Garfield"]
+removeLast.pop();
 
 const removeFirst = ["Milo", "Otis", "Garfield"]
