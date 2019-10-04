@@ -1,6 +1,6 @@
 // Write your solution here!
 let append = ["Milo", "Otis", "Garfield"];
-append.push();
+append.push(0);
 
 let prepend = ["Milo", "Otis", "Garfield"];
 prepend.unshift();
