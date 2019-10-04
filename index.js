@@ -3,7 +3,7 @@ let append = ["Milo", "Otis", "Garfield"];
 append.push(0);
 
 let prepend = ["Milo", "Otis", "Garfield"];
-prepend.unshift();
+prepend.unshift(2);
 
 let removeLast = ["Milo", "Otis", "Garfield"]
 removeLast.pop();
